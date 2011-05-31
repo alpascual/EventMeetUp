@@ -1,0 +1,1623 @@
+TEventMeetUp
+v7
+r0
+t320615344.604642
+cCheck dependencies
+cProcessInfoPlistFile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Info.plist" EventMeetUp-Info.plist
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib"
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib"
+cCpResource build/Debug-iphonesimulator/EventMeetUp.app/About.htm Resources/About.htm
+cCpResource build/Debug-iphonesimulator/EventMeetUp.app/Default.png Resources/Default.png
+cCpResource build/Debug-iphonesimulator/EventMeetUp.app/Icon-72.png Resources/Icon-72.png
+cCpResource build/Debug-iphonesimulator/EventMeetUp.app/Icon.png Resources/Icon.png
+cCpResource build/Debug-iphonesimulator/EventMeetUp.app/Icon@2x.png Resources/Icon@2x.png
+cCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib"
+cCpResource build/Debug-iphonesimulator/EventMeetUp.app/001_07.png Resources/Pictures/001_07.png
+cCpResource build/Debug-iphonesimulator/EventMeetUp.app/001_12.png Resources/Pictures/001_12.png
+cProcessPCH /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch.gch EventMeetUp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp.momd" "/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld"
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/main.o "/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPad.o "/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_Shared.o "/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPhone.o "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsParser.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadFeedsController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadSurface.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/DetailTableViewController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneAbout.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneFeedsController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/GTMNSString+HTML.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedInfo.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedItem.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedParser.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSDate+InternetDateTime.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+HTML.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+XMLEntities.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsConfig.o "/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferencesController.o "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SessionManager.o "/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SearchController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp" normal i386
+cGenerateDSYMFile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app.dSYM" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp"
+cTouch "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC6561F000000000000291C
+t1288066591
+s10524
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004CC657750000000000000071
+t1288066933
+s113
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004CC65780000000000002F590
+t1288066944
+s193936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/AvailabilityMacros.h
+c000000004CB3FA08000000000000673C
+t1286863368
+s26428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/TargetConditionals.h
+c000000004CB3FA0800000000000031E9
+t1286863368
+s12777
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsConfig.h
+c000000004D5F4C44000000000000012B
+t1298091076
+s299
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.h
+c000000004D3210A4000000000000023E
+t1295126692
+s574
+i<Foundation/Foundation.h>
+i"MWFeedParser.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m
+c000000004D3212C800000000000009BA
+t1295127240
+s2490
+i"FeedsParser.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/AppDelegate_Shared.h
+c000000004D3125E3000000000000035F
+t1295066595
+s863
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m
+c000000004D1A2CCE00000000000036BB
+t1293561038
+s14011
+i"GTMDefines.h"
+i"GTMNSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m
+c000000004D1A2CCE0000000000000A25
+t1293561038
+s2597
+i"MWFeedInfo.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m
+c000000004D1A2CCE0000000000000D73
+t1293561038
+s3443
+i"MWFeedItem.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.h
+c000000004D3212A3000000000000135B
+t1295127203
+s4955
+i<Foundation/Foundation.h>
+i"MWFeedInfo.h"
+i"MWFeedItem.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m
+c000000004D3212970000000000007ACD
+t1295127191
+s31437
+i"MWFeedParser.h"
+i"MWFeedParser_Private.h"
+i"NSString+HTML.h"
+i"NSDate+InternetDateTime.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m
+c000000004D1A2CCE000000000000121F
+t1293561038
+s4639
+i"NSDate+InternetDateTime.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.h
+c000000004D1A2CCE000000000000075A
+t1293561038
+s1882
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m
+c000000004D1A2CCE000000000000265A
+t1293561038
+s9818
+i"NSString+HTML.h"
+i"GTMNSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m
+c000000004D1A2CCE00000000000006DE
+t1293561038
+s1758
+i"NSString+XMLEntities.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/default.png
+c000000004D38AFA8000000000005E1D0
+t1295560616
+s385488
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.h
+c000000004D3524D5000000000000030D
+t1295328469
+s781
+i<UIKit/UIKit.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"SubstitutableDetailViewController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m
+c000000004D3523570000000000001322
+t1295328087
+s4898
+i"iPadFeedsController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib
+c000000004D37167C0000000000003D45
+t1295455868
+s15685
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.h
+c000000004D57DFFB00000000000004A9
+t1297604603
+s1193
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m
+c000000004D5F48BF00000000000014AC
+t1298090175
+s5292
+i"iPadSurface.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib
+c000000004D5EC23100000000000069BA
+t1298055729
+s27066
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.h
+c000000004D4C46C2000000000000095F
+t1296844482
+s2399
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+i"MWFeedItem.h"
+i"SubstitutableDetailViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m
+c000000004D4C471C0000000000002040
+t1296844572
+s8256
+i"DetailTableViewController.h"
+i"NSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib
+c000000004D5F423C0000000000006BC2
+t1298088508
+s27586
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m
+c000000004D6004130000000000000772
+t1298138131
+s1906
+i"SearchController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib
+c000000004D6004100000000000005C66
+t1298138128
+s23654
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m
+c000000004D38AD6100000000000009D0
+t1295560033
+s2512
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib
+c000000004D38FD560000000000006185
+t1295580502
+s24965
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.h
+c000000004D6BF3FC00000000000005EF
+t1298920444
+s1519
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"FeedsParser.h"
+i"FeedsConfig.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+i"SubstitutableDetailViewController.h"
+i"SearchController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m
+c000000004D6BFC1600000000000031F0
+t1298922518
+s12784
+i"iPhoneFeedsController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib
+c000000004D6BF9400000000000007FAA
+t1298921792
+s32682
+
+N/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.h
+c000000004D54313000000000000000ED
+t1297363248
+s237
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.m
+c000000004D5431300000000000000533
+t1297363248
+s1331
+i"ConferenceController_iPad.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib
+c000000004D6BEF3E0000000000008823
+t1298919230
+s34851
+
+N/Users/alpascual/Pet Projects/EventMeetUp/EventMeetUp_Prefix.pch
+c000000004D49A61600000000000000BF
+t1296672278
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.h
+c000000004D5F3E2000000000000001C0
+t1298087456
+s448
+i<Foundation/Foundation.h>
+i"SessionManager.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m
+c000000004D5F3E0200000000000006C6
+t1298087426
+s1734
+i"FeedsConfig.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/About.htm
+c000000004D5730C9000000000000040B
+t1297559753
+s1035
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Default.png
+c000000004D5EB7CC000000000000AB3C
+t1298053068
+s43836
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon-72.png
+c000000004D5EBACB0000000000001D94
+t1298053835
+s7572
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon.png
+c000000004D5EBADC00000000000014B4
+t1298053852
+s5300
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon@2x.png
+c000000004D5EBAB60000000000003EB5
+t1298053814
+s16053
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Pictures/001_07.png
+c0000000048215022000000000000038C
+t1210142754
+s908
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Pictures/001_12.png
+c0000000048215022000000000000028D
+t1210142754
+s653
+
+N/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.h
+c000000004D56DC5B0000000000000166
+t1297538139
+s358
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m
+c000000004D56DEA10000000000000378
+t1297538721
+s888
+i"SessionManager.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.h
+c000000004D49A616000000000000035A
+t1296672278
+s858
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m
+c000000004D49A6160000000000001763
+t1296672278
+s5987
+i"AppDelegate_Shared.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld
+c000000004D49A6160000000000000088
+t1296672278
+s136
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m
+c000000004D49A616000000000000015F
+t1296672278
+s351
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app
+t1298922544
+s782
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app.dSYM
+t1298922544
+s102
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/001_07.png
+t1298920972
+s908
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/001_12.png
+t1298920972
+s653
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/About.htm
+t1297612665
+s1035
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/ConferenceController_iPad.nib
+t1298919389
+s3204
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/ConferencesController.nib
+t1298920972
+s3166
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Default.png
+t1298055596
+s43836
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/DetailTableViewController.nib
+t1298919388
+s1752
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp
+t1298922544
+s198268
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp.momd
+t1297612666
+s136
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Icon-72.png
+t1298055596
+s7572
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Icon.png
+t1298055596
+s5300
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Icon@2x.png
+t1298055596
+s16053
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Info.plist
+t1297612663
+s988
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/MainWindow_iPad.nib
+t1297612663
+s982
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/MainWindow_iPhone.nib
+t1297612663
+s984
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/PkgInfo
+t1297612663
+s8
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/SearchController.nib
+t1298919389
+s1700
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/default.png
+t1297559822
+s385488
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPadFeedsController.nib
+t1297612664
+s663
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPadSurface.nib
+t1298055816
+s1626
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPhoneAbout.nib
+t1297612664
+s1466
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPhoneFeedsController.nib
+t1298922033
+s1794
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_Shared.o
+t1297612666
+s59144
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPad.o
+t1298920495
+s60068
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1298920495
+s60392
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferenceController_iPad.o
+t1297363438
+s38320
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferencesController.o
+t1298920495
+s55460
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/DetailTableViewController.o
+t1297612666
+s76448
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/EventMeetUp.LinkFileList
+c000000004D6BEFDC0000000000000BD5
+t1298919388
+s3029
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsConfig.o
+t1298087636
+s11660
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsParser.o
+t1297612666
+s55084
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/GTMNSString+HTML.o
+t1297612667
+s32272
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedInfo.o
+t1297612667
+s14984
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedItem.o
+t1297612667
+s22672
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedParser.o
+t1297612667
+s91300
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSDate+InternetDateTime.o
+t1297612667
+s15808
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+HTML.o
+t1297612667
+s21816
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+XMLEntities.o
+t1297612667
+s6988
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SearchController.o
+t1298919391
+s46188
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SessionManager.o
+t1297612667
+s10296
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadFeedsController.o
+t1298920495
+s59096
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadSurface.o
+t1298920495
+s66032
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneAbout.o
+t1297612666
+s53044
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneFeedsController.o
+t1298922544
+s88496
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/main.o
+t1297612666
+s6324
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/AppDelegate_Shared.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/AppDelegate_iPad.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/AppDelegate_iPhone.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/ConferencesController.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/DetailTableViewController.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/FeedsConfig.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/FeedsParser.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/GTMNSString+HTML.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/MWFeedInfo.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/MWFeedItem.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/MWFeedParser.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/NSDate+InternetDateTime.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/NSString+HTML.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/NSString+XMLEntities.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/SessionManager.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPadFeedsController.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPadSurface.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPhoneAbout.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPhoneFeedsController.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/main.plist
+t1297559826
+s276
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.h
+c000000004D5432B50000000000000385
+t1297363637
+s901
+i<UIKit/UIKit.h>
+i"AppDelegate_Shared.h"
+i"iPadFeedsController.h"
+i"iPadSurface.h"
+i"ConferencesController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m
+c000000004D557E1100000000000009DF
+t1297448465
+s2527
+i"AppDelegate_iPad.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib
+c000000004D49A61600000000000038A1
+t1296672278
+s14497
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.h
+c000000004D56C1E100000000000002EA
+t1297531361
+s746
+i<UIKit/UIKit.h>
+i"AppDelegate_Shared.h"
+i"iPhoneFeedsController.h"
+i"ConferencesController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m
+c000000004D56C2FC0000000000000D01
+t1297531644
+s3329
+i"AppDelegate_iPhone.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.h
+c000000004D6BEED500000000000002B2
+t1298919125
+s690
+i<UIKit/UIKit.h>
+i"FeedsConfig.h"
+i"iPadSurface.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m
+c000000004D6BF02C0000000000000CF5
+t1298919468
+s3317
+i"ConferencesController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib
+c000000004D6BF4DA000000000000859B
+t1298920666
+s34203
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib
+c000000004D49A6170000000000003A8F
+t1296672279
+s14991
+
+N/Users/alpascual/Pet Projects/SilverlightNews/FeedsConfig.h
+c000000004D321D9E0000000000000112
+t1295130014
+s274
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/FeedsParser.h
+c000000004D3210A4000000000000023E
+t1295126692
+s574
+i<Foundation/Foundation.h>
+i"MWFeedParser.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/GTMDefines.h
+c000000004D1A2CCE0000000000002E51
+t1293561038
+s11857
+i<AvailabilityMacros.h>
+i<TargetConditionals.h>
+i<Availability.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/GTMNSString+HTML.h
+c000000004D1A2CCE00000000000008F0
+t1293561038
+s2288
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedInfo.h
+c000000004D1A2CCE00000000000006DD
+t1293561038
+s1757
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedItem.h
+c000000004D1A2CCE00000000000009D8
+t1293561038
+s2520
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedParser.h
+c000000004D3212A3000000000000135B
+t1295127203
+s4955
+i<Foundation/Foundation.h>
+i"MWFeedInfo.h"
+i"MWFeedItem.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedParser_Private.h
+c000000004D1A2CCE0000000000000AD5
+t1293561038
+s2773
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/NSDate+InternetDateTime.h
+c000000004D1A2CCE0000000000000262
+t1293561038
+s610
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/NSString+HTML.h
+c000000004D1A2CCE000000000000075A
+t1293561038
+s1882
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/NSString+XMLEntities.h
+c000000004D1A2CCE00000000000006C8
+t1293561038
+s1736
+i<Foundation/Foundation.h>
+i"NSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/SubstitutableDetailViewController.h
+c000000004D3524B50000000000000179
+t1295328437
+s377
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPadFeedsController.h
+c000000004D3524D5000000000000030D
+t1295328469
+s781
+i<UIKit/UIKit.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"SubstitutableDetailViewController.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPadSurface.h
+c000000004D57DFFB00000000000004A9
+t1297604603
+s1193
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/DetailTableViewController.h
+c000000004D4C46C2000000000000095F
+t1296844482
+s2399
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+i"MWFeedItem.h"
+i"SubstitutableDetailViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/SearchController.h
+c000000004D6BEFCC00000000000001B4
+t1298919372
+s436
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/iPhoneAbout.h
+c000000004D38A7BA000000000000029B
+t1295558586
+s667
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/iPhoneFeedsController.h
+c000000004D6BF3FC00000000000005EF
+t1298920444
+s1519
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"FeedsParser.h"
+i"FeedsConfig.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+i"SubstitutableDetailViewController.h"
+i"SearchController.h"
+
+N/var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch.gch
+t1297612666
+s15453392
+
+N/var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch.pth
+t1297362558
+s2784016
+
+NEventMeetUp-Info.plist
+c000000004D57D3CE00000000000005EB
+t1297601486
+s1515
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m"
+s319252626.270223
+e319252626.322215
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m
+lSLF07#2@82"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m319252626#319252626#0(0"0(0#0#74"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m8608272832#2091"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/FeedsParser.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m"
+s319252626.483950
+e319252626.540670
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m
+lSLF07#2@94"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m319252626#319252626#0(0"0(0#0#86"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m8618333312#2108"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/GTMNSString+HTML.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m"
+s319252626.487733
+e319252626.537669
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m
+lSLF07#2@88"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m319252626#319252626#0(0"0(0#0#80"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m8617482368#2096"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/MWFeedInfo.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m"
+s319252626.537766
+e319252626.603776
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m
+lSLF07#2@88"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m319252626#319252626#0(0"0(0#0#80"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m8614859328#2096"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/MWFeedItem.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m"
+s319252626.540753
+e319252626.699706
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m
+lSLF07#2@90"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m319252626#319252626#0(0"0(0#0#82"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m8608125472#2100"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/MWFeedParser.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m"
+s319252626.603990
+e319252626.644312
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m
+lSLF07#2@101"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m319252626#319252626#0(0"0(0#0#93"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m8606290656#2122"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/NSDate+InternetDateTime.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m"
+s319252626.644399
+e319252626.686786
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m
+lSLF07#2@91"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m319252626#319252626#0(0"0(0#0#83"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m8606641344#2102"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/NSString+HTML.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m"
+s319252626.686869
+e319252626.735850
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m
+lSLF07#2@98"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m319252626#319252626#0(0"0(0#0#90"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m8603363744#2116"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/NSString+XMLEntities.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m"
+s319252626.299539
+e319252626.353203
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m
+lSLF07#2@90"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m319252626#319252626#0(0"0(0#0#82"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m8618595136#2107"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPadFeedsController.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m"
+s319252626.322469
+e319252626.411482
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m
+lSLF07#2@82"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m319252626#319252626#0(0"0(0#0#74"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m8617924288#2091"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPadSurface.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m"
+s319252626.353288
+e319252626.422954
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m
+lSLF07#2@103"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m319252626#319252626#0(0"0(0#0#95"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m8618725632#2126"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/DetailTableViewController.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m"
+s319252626.411563
+e319252626.483867
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m
+lSLF07#2@89"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m319252626#319252626#0(0"0(0#0#81"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m8615204608#2098"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPhoneAbout.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m"
+s319252626.423042
+e319252626.487646
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m
+lSLF07#2@99"Analyze /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m319252626#319252626#0(0"0(0#0#91"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m8608520288#2118"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/iPhoneFeedsController.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m"
+s319252626.699790
+e319252626.751031
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m
+lSLF07#2@63"Analyze /Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m319252626#319252626#0(0"0(0#0#55"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m8615812736#2072"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/FeedsConfig.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m"
+s319252626.751118
+e319252626.793935
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m
+lSLF07#2@66"Analyze /Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m319252626#319252626#0(0"0(0#0#58"/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m8617747648#2078"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/SessionManager.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m"
+s319252626.217520
+e319252626.270138
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m
+lSLF07#2@77"Analyze /Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m319252626#319252626#0(0"0(0#0#69"/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m8615598912#2093"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/AppDelegate_Shared.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m"
+s319252626.100838
+e319252626.176410
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m
+lSLF07#2@63"Analyze /Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m319252626#319252626#0(0"0(0#0#55"/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m8617496480#2065"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m"
+s319252626.176496
+e319252626.242509
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m
+lSLF07#2@73"Analyze /Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m319252626#319252626#0(0"0(0#0#65"/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m8618442624#2087"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/AppDelegate_iPad.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m"
+s319252626.242598
+e319252626.299451
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m
+lSLF07#2@77"Analyze /Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m319252626#319252626#0(0"0(0#0#69"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m8614663584#2093"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/AppDelegate_iPhone.plist"0#
+
+CAnalyze "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m"
+s319252626.735938
+e319252626.786992
+r1
+xAnalyze
+x/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m
+lSLF07#2@80"Analyze /Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m319252626#319252626#0(0"0(0#0#72"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m8618672320#2099"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch --analyze "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/StaticAnalyzer/normal/i386/ConferencesController.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320615344#320615344#0(0"0(0#1#0"8617292160#0"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_Shared.o "/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305466.550566
+e319305466.655993
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_Shared.o
+x/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m319305466#319305466#0(0"0(0#0#69"/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m8627775424#2084"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_Shared.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPad.o "/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320613295.228378
+e320613295.340429
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'splitViewController' requires method '-splitViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'splitViewController' requires the method 'setSplitViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@73"Compile /Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m320613295#320613295#0(866"/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'splitViewController' requires method '-splitViewController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m:87: warning: property 'splitViewController' requires the method 'setSplitViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@120"Property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation320613295#0#200#0(6@65"/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m319141265#87#0#87#0#0"0(22@127"Property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation320613295#200#207#0(6@65"/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m319141265#87#0#87#0#0"0(22@146"Property 'splitViewController' requires method '-splitViewController' to be defined - use @synthesize, @dynamic or provide a method implementation320613295#407#226#0(6@65"/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m319141265#87#0#87#0#0"0(22@153"Property 'splitViewController' requires the method 'setSplitViewController:' to be defined - use @synthesize, @dynamic or provide a method implementation320613295#633#233#0(6@65"/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m319141265#87#0#87#0#0"0(0#0#65"/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m8615928256#2078"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPad.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPhone.o "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320613295.229385
+e320613295.321897
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m:100: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m:100: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@77"Compile /Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m320613295#320613295#0(417"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m:100: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m:100: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@120"Property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation320613295#0#205#0(6@69"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m319224444#100#0#100#0#0"0(22@127"Property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation320613295#205#212#0(6@69"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m319224444#100#0#100#0#0"0(0#0#69"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m8615626208#2084"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPhone.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferenceController_iPad.o "/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319056238.896973
+e319056238.972238
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferenceController_iPad.o
+x/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.m319056238#319056238#0(0"0(0#0#69"/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.m8609434912#2091"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferenceController_iPad.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferencesController.o "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320613295.455248
+e320613295.552334
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferencesController.o
+x/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m320613295#320613295#0(0"0(0#0#72"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m8615626592#2090"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferencesController.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/DetailTableViewController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305466.863423
+e319305466.991267
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/DetailTableViewController.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m319305466#319305466#0(0"0(0#0#95"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m8625487264#2117"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/DetailTableViewController.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsConfig.o "/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319780436.806499
+e319780436.879238
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsConfig.o
+x/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig GetAllFeeds]':
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: 'SessionManager' may not respond to '+sharedSessionManager'
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: (Messages without a matching method signature
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: will be assumed to return 'id' and accept
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: '...' as arguments.)
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig GetFirst]':
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:32: warning: 'SessionManager' may not respond to '+sharedSessionManager'
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig clearFeed]':
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:42: warning: 'SessionManager' may not respond to '+sharedSessionManager'
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig addFeed:]':
+o/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:48: warning: 'SessionManager' may not respond to '+sharedSessionManager'
+lSLF07#2@63"Compile /Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m319780436#319780436#0(1220"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig GetAllFeeds]':/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: 'SessionManager' may not respond to '+sharedSessionManager'/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: (Messages without a matching method signature/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: will be assumed to return 'id' and accept/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:16: warning: '...' as arguments.)/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig GetFirst]':/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:32: warning: 'SessionManager' may not respond to '+sharedSessionManager'/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig clearFeed]':/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:42: warning: 'SessionManager' may not respond to '+sharedSessionManager'/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m: In function '-[FeedsConfig addFeed:]':/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m:48: warning: 'SessionManager' may not respond to '+sharedSessionManager'5(22@59"'SessionManager' may not respond to '+sharedSessionManager'319780436#99#129#0(6@55"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m319780226#16#0#16#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)319780436#228#115#0(6@55"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m319780226#16#0#16#0#0"0(22@59"'SessionManager' may not respond to '+sharedSessionManager'319780436#640#129#0(6@55"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m319780226#32#0#32#0#26"'*' may not respond to '*'0(22@59"'SessionManager' may not respond to '+sharedSessionManager'319780436#866#129#0(6@55"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m319780226#42#0#42#0#26"'*' may not respond to '*'0(22@59"'SessionManager' may not respond to '+sharedSessionManager'319780436#1091#129#0(6@55"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m319780226#48#0#48#0#26"'*' may not respond to '*'0(0#0#55"/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m8619204288#2063"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsConfig.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsParser.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305466.665872
+e319305466.752511
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsParser.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m319305466#319305466#0(0"0(0#0#74"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m8627889440#2082"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsParser.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/GTMNSString+HTML.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305466.991363
+e319305467.101928
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/GTMNSString+HTML.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m319305466#319305467#0(0"0(0#0#86"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m8613443744#2099"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/GTMNSString+HTML.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedInfo.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305467.102025
+e319305467.190744
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedInfo.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m319305467#319305467#0(0"0(0#0#80"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m8628179680#2087"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedInfo.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedItem.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305467.123936
+e319305467.214306
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedItem.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m319305467#319305467#0(0"0(0#0#80"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m8626515520#2087"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedItem.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedParser.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305467.190850
+e319305467.439996
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedParser.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m319305467#319305467#0(0"0(0#0#82"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m8624692736#2091"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedParser.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSDate+InternetDateTime.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305467.214406
+e319305467.275144
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSDate+InternetDateTime.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m319305467#319305467#0(0"0(0#0#93"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m8624123744#2113"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSDate+InternetDateTime.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+HTML.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305467.275244
+e319305467.367772
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+HTML.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m319305467#319305467#0(0"0(0#0#83"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m8619212640#2093"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+HTML.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+XMLEntities.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305467.367866
+e319305467.421791
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+XMLEntities.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m319305467#319305467#0(0"0(0#0#90"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m8604288896#2107"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+XMLEntities.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SearchController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320612191.074616
+e320612191.145780
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SearchController.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m320612191#320612191#0(0"0(0#0#86"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m8602174720#2099"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SearchController.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SessionManager.o "/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305467.478653
+e319305467.548302
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SessionManager.o
+x/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m:42: warning: incomplete implementation of class 'SessionManager'
+o/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m:42: warning: method definition for '+sharedStateInstance' not found
+lSLF07#2@66"Compile /Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m319305467#319305467#0(251"/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m:42: warning: incomplete implementation of class 'SessionManager'/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m:42: warning: method definition for '+sharedStateInstance' not found2(22@51"Incomplete implementation of class 'SessionManager'319305467#0#124#0(6@58"/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m319231521#42#0#42#0#38"incomplete implementation of class '*'0(22@54"Method definition for '+sharedStateInstance' not found319305467#124#127#0(6@58"/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m319231521#42#0#42#0#35"method definition for '*' not found0(0#0#58"/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m8630814336#2069"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SessionManager.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadFeedsController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320613295.322253
+e320613295.441450
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadFeedsController.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m320613295#320613295#0(0"0(0#0#82"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m8615206304#2098"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadFeedsController.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadSurface.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320613295.340523
+e320613295.454408
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadSurface.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m320613295#320613295#0(0"0(0#0#74"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m8614797280#2082"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadSurface.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneAbout.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305466.887492
+e319305466.973692
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneAbout.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m319305466#319305466#0(0"0(0#0#81"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m8624347808#2089"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneAbout.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneFeedsController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320615344.385499
+e320615344.510853
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneFeedsController.o
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m: In function '-[iPhoneFeedsController aboutCalled]':
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: 'FeedsConfig' may not respond to '-GetAbout'
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: (Messages without a matching method signature
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: will be assumed to return 'id' and accept
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: '...' as arguments.)
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m: In function '-[iPhoneFeedsController tableView:cellForRowAtIndexPath:]':
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:257: warning: 'NSString' may not respond to '-stringByConvertingHTMLToPlainText'
+o/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:258: warning: 'NSString' may not respond to '-stringByConvertingHTMLToPlainText'
+lSLF07#2@99"Compile /Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m320615344#320615344#0(1231"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m: In function '-[iPhoneFeedsController aboutCalled]':/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: 'FeedsConfig' may not respond to '-GetAbout'/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: (Messages without a matching method signature/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: will be assumed to return 'id' and accept/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:67: warning: '...' as arguments.)/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m: In function '-[iPhoneFeedsController tableView:cellForRowAtIndexPath:]':/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:257: warning: 'NSString' may not respond to '-stringByConvertingHTMLToPlainText'/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m:258: warning: 'NSString' may not respond to '-stringByConvertingHTMLToPlainText'4(22@44"'FeedsConfig' may not respond to '-GetAbout'320615344#145#150#0(6@91"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m320615318#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)320615344#295#151#0(6@91"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m320615318#67#0#67#0#0"0(22@66"'NSString' may not respond to '-stringByConvertingHTMLToPlainText'320615344#885#173#0(6@91"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m320615318#257#0#257#0#26"'*' may not respond to '*'0(22@66"'NSString' may not respond to '-stringByConvertingHTMLToPlainText'320615344#1058#173#0(6@91"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m320615318#258#0#258#0#26"'*' may not respond to '*'0(0#0#91"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m8618354464#2109"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneFeedsController.o"0#
+
+CCompileC build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/main.o "/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305466.490649
+e319305466.550465
+r1
+xCompileC
+xbuild/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/main.o
+x/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m319305466#319305466#0(0"0(0#0#55"/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m8630828608#2056"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -include /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch -c "/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib"
+s319305463.949645
+e319305464.352565
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib
+lSLF07#2@53"CompileXIB ../SilverlightNews/iPadFeedsController.xib319305463#319305464#0(0"0(0#0#84"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib8626344096#626"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPadFeedsController.nib" "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib"
+s319748615.776055
+e319748616.658873
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib
+lSLF07#2@45"CompileXIB ../SilverlightNews/iPadSurface.xib319748615#319748616#0(0"0(0#0#76"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib32651531095375920#610"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPadSurface.nib" "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib"
+s320612188.414283
+e320612188.886760
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@66"CompileXIB ../SilverlightNews/iPhone/DetailTableViewController.xib320612188#320612188#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#97"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib8606269120#645"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/DetailTableViewController.nib" "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib"
+s320612189.425943
+e320612189.860959
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@57"CompileXIB ../SilverlightNews/iPhone/SearchController.xib320612189#320612189#0(420"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#88"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib8612846240#627"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/SearchController.nib" "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib"
+s319305464.382994
+e319305465.014495
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib
+lSLF07#2@52"CompileXIB ../SilverlightNews/iPhone/iPhoneAbout.xib319305464#319305465#0(0"0(0#0#83"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib8625050528#617"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPhoneAbout.nib" "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib"
+s320614833.118736
+e320614833.533437
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib
+lSLF07#2@62"CompileXIB ../SilverlightNews/iPhone/iPhoneFeedsController.xib320614833#320614833#0(0"0(0#0#93"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib3328002161977419264#637"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/iPhoneFeedsController.nib" "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib"
+s320612188.899433
+e320612189.509916
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@40"CompileXIB ConferenceController_iPad.xib320612188#320612189#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#71"/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib8604519968#619"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/ConferenceController_iPad.nib" "/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib"
+s319305463.541754
+e319305463.949556
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib319305463#319305463#0(0"0(0#0#66"/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib8624159040#604"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/MainWindow_iPad.nib" "/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib"
+s320613772.540398
+e320613773.017386
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib
+lSLF07#2@43"CompileXIB iPhone/ConferencesController.xib320613772#320613773#0(0"0(0#0#74"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib8620276608#618"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/ConferencesController.nib" "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib"
+s319305463.542578
+e319305463.966337
+r1
+xCompileXIB
+x/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib319305463#319305463#0(0"0(0#0#70"/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib8600537856#610"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/MainWindow_iPhone.nib" "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/001_07.png Resources/Pictures/001_07.png
+s320613772.541393
+e320613772.576929
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/001_07.png
+xResources/Pictures/001_07.png
+lSLF07#2@34"Copy Resources/Pictures/001_07.png320613772#320613772#0(0"0(0#0#71"/Users/alpascual/Pet Projects/EventMeetUp/Resources/Pictures/001_07.png8619249056#506"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/Resources/Pictures/001_07.png" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/001_12.png Resources/Pictures/001_12.png
+s320613772.541961
+e320613772.573790
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/001_12.png
+xResources/Pictures/001_12.png
+lSLF07#2@34"Copy Resources/Pictures/001_12.png320613772#320613772#0(0"0(0#0#71"/Users/alpascual/Pet Projects/EventMeetUp/Resources/Pictures/001_12.png8618618400#506"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/Resources/Pictures/001_12.png" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/About.htm Resources/About.htm
+s319305465.531937
+e319305465.537764
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/About.htm
+xResources/About.htm
+lSLF07#2@24"Copy Resources/About.htm319305465#319305465#0(0"0(0#0#61"/Users/alpascual/Pet Projects/EventMeetUp/Resources/About.htm8624372800#496"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/Resources/About.htm" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/Default.png Resources/Default.png
+s319748396.327970
+e319748396.401822
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/Default.png
+xResources/Default.png
+lSLF07#2@26"Copy Resources/Default.png319748396#319748396#0(0"0(0#0#63"/Users/alpascual/Pet Projects/EventMeetUp/Resources/Default.png29555366482477168#498"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/Resources/Default.png" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/Icon-72.png Resources/Icon-72.png
+s319748396.374091
+e319748396.400660
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/Icon-72.png
+xResources/Icon-72.png
+lSLF07#2@26"Copy Resources/Icon-72.png319748396#319748396#0(0"0(0#0#63"/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon-72.png8601988128#498"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon-72.png" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/Icon.png Resources/Icon.png
+s319748396.375173
+e319748396.399921
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/Icon.png
+xResources/Icon.png
+lSLF07#2@23"Copy Resources/Icon.png319748396#319748396#0(0"0(0#0#60"/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon.png8600326848#495"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon.png" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/Icon@2x.png Resources/Icon@2x.png
+s319748396.375993
+e319748396.401962
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/Icon@2x.png
+xResources/Icon@2x.png
+lSLF07#2@26"Copy Resources/Icon@2x.png319748396#319748396#0(0"0(0#0#63"/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon@2x.png8601418528#498"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon@2x.png" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CCpResource build/Debug-iphonesimulator/EventMeetUp.app/default.png ../SilverlightNews/default.png
+s319252622.503149
+e319252622.509028
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EventMeetUp.app/default.png
+x../SilverlightNews/default.png
+lSLF07#2@35"Copy ../SilverlightNews/default.png319252622#319252622#0(0"0(0#0#72"/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/default.png8617455488#507"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/default.png" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+
+CDataModelVersionCompile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp.momd" "/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld"
+s319305466.489477
+e319305466.532122
+r1
+xDataModelVersionCompile
+x/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp.momd
+x/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld
+lSLF07#2@116"DataModelVersionCompile build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp.momd Shared/EventMeetUp.xcdatamodeld319305466#319305466#0(0"0(0#0#73"/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld8600702176#420"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp.momd"0#
+
+CGenerateDSYMFile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app.dSYM" "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp"
+s320615344.559028
+e320615344.602107
+r1
+xGenerateDSYMFile
+x/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app.dSYM
+x/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/EventMeetUp.app.dSYM build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp320615344#320615344#0(0"0(0#0#97"/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp8617146176#410"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp" -o "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app.dSYM"0#
+
+CLd "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp" normal i386
+s320615344.510940
+e320615344.558923
+r1
+xLd
+x/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp
+xnormal
+xi386
+lSLF07#2@102"Link /Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp320615344#320615344#0(0"0(0#0#0"8618357248#1001"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" -filelist "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/Objects-normal/i386/EventMeetUp.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -framework iAd -framework MessageUI -o "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/EventMeetUp"0#
+
+CProcessInfoPlistFile "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Info.plist" EventMeetUp-Info.plist
+s319305463.520861
+e319305463.541661
+r1
+xProcessInfoPlistFile
+x/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Info.plist
+xEventMeetUp-Info.plist
+lSLF07#2@30"Process EventMeetUp-Info.plist319305463#319305463#0(0"0(0#0#64"/Users/alpascual/Pet Projects/EventMeetUp/EventMeetUp-Info.plist8624488160#506"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility EventMeetUp-Info.plist -genpkginfo "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app/Info.plist"0#
+
+CProcessPCH /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch.gch EventMeetUp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319305465.777822
+e319305466.489194
+r1
+xProcessPCH
+x/var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch.gch
+xEventMeetUp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile EventMeetUp_Prefix.pch319305465#319305466#0(0"0(0#0#64"/Users/alpascual/Pet Projects/EventMeetUp/EventMeetUp_Prefix.pch8617703520#1932"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -c "/Users/alpascual/Pet Projects/EventMeetUp/EventMeetUp_Prefix.pch" -o /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cjevqkahaoitiyafkjmryudxxkyz/EventMeetUp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch.pth EventMeetUp_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s319055357.506210
+e319055359.161677
+r1
+xProcessPCH
+x/var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch.pth
+xEventMeetUp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@33"Precompile EventMeetUp_Prefix.pch319055357#319055359#0(0"0(0#0#64"/Users/alpascual/Pet Projects/EventMeetUp/EventMeetUp_Prefix.pch8601356128#1923"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-generated-files.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-own-target-headers.hmap" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-all-target-headers.hmap" -iquote "/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/EventMeetUp-project-headers.hmap" "-F/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/include" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources/i386" "-I/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Debug-iphonesimulator/EventMeetUp.build/DerivedSources" -c "/Users/alpascual/Pet Projects/EventMeetUp/EventMeetUp_Prefix.pch" -o /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-cyzqzvqacjxuyjccqmgrhdxbvtdw/EventMeetUp_Prefix.pch.pth0#
+
+CTouch "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"
+s320615344.602201
+e320615344.604601
+r1
+xTouch
+x/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app
+lSLF07#2@91"Touch /Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app320615344#320615344#0(0"0(0#0#0"8617149600#292"    cd "/Users/alpascual/Pet Projects/EventMeetUp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/alpascual/Pet Projects/EventMeetUp/build/Debug-iphonesimulator/EventMeetUp.app"0#
+

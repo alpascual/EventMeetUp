@@ -1,0 +1,863 @@
+TEventMeetUp
+v7
+r1
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC6561F000000000000291C
+t1288066591
+s10524
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/Headers/iAd.h
+c000000004CC657750000000000000071
+t1288066933
+s113
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004CC65780000000000002F590
+t1288066944
+s193936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/AvailabilityMacros.h
+c000000004CB3FA08000000000000673C
+t1286863368
+s26428
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/TargetConditionals.h
+c000000004CB3FA0800000000000031E9
+t1286863368
+s12777
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsConfig.h
+c000000004D5F4C44000000000000012B
+t1298091076
+s299
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.h
+c000000004D3210A4000000000000023E
+t1295126692
+s574
+i<Foundation/Foundation.h>
+i"MWFeedParser.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m
+c000000004D3212C800000000000009BA
+t1295127240
+s2490
+i"FeedsParser.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/AppDelegate_Shared.h
+c000000004D3125E3000000000000035F
+t1295066595
+s863
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m
+c000000004D1A2CCE00000000000036BB
+t1293561038
+s14011
+i"GTMDefines.h"
+i"GTMNSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m
+c000000004D1A2CCE0000000000000A25
+t1293561038
+s2597
+i"MWFeedInfo.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m
+c000000004D1A2CCE0000000000000D73
+t1293561038
+s3443
+i"MWFeedItem.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.h
+c000000004D3212A3000000000000135B
+t1295127203
+s4955
+i<Foundation/Foundation.h>
+i"MWFeedInfo.h"
+i"MWFeedItem.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m
+c000000004D3212970000000000007ACD
+t1295127191
+s31437
+i"MWFeedParser.h"
+i"MWFeedParser_Private.h"
+i"NSString+HTML.h"
+i"NSDate+InternetDateTime.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m
+c000000004D1A2CCE000000000000121F
+t1293561038
+s4639
+i"NSDate+InternetDateTime.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.h
+c000000004D1A2CCE000000000000075A
+t1293561038
+s1882
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m
+c000000004D1A2CCE000000000000265A
+t1293561038
+s9818
+i"NSString+HTML.h"
+i"GTMNSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m
+c000000004D1A2CCE00000000000006DE
+t1293561038
+s1758
+i"NSString+XMLEntities.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.h
+c000000004D3524D5000000000000030D
+t1295328469
+s781
+i<UIKit/UIKit.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"SubstitutableDetailViewController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m
+c000000004D3523570000000000001322
+t1295328087
+s4898
+i"iPadFeedsController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib
+c000000004D37167C0000000000003D45
+t1295455868
+s15685
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.h
+c000000004D57DFFB00000000000004A9
+t1297604603
+s1193
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m
+c000000004D5F48BF00000000000014AC
+t1298090175
+s5292
+i"iPadSurface.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib
+c000000004D5EC23100000000000069BA
+t1298055729
+s27066
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.h
+c000000004D4C46C2000000000000095F
+t1296844482
+s2399
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+i"MWFeedItem.h"
+i"SubstitutableDetailViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m
+c000000004D4C471C0000000000002040
+t1296844572
+s8256
+i"DetailTableViewController.h"
+i"NSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib
+c000000004D5F423C0000000000006BC2
+t1298088508
+s27586
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m
+c000000004D6004130000000000000772
+t1298138131
+s1906
+i"SearchController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib
+c000000004D6004100000000000005C66
+t1298138128
+s23654
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m
+c000000004D38AD6100000000000009D0
+t1295560033
+s2512
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib
+c000000004D38FD560000000000006185
+t1295580502
+s24965
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.h
+c000000004D649325000000000000058F
+t1298436901
+s1423
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"FeedsParser.h"
+i"FeedsConfig.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+i"SubstitutableDetailViewController.h"
+i"SearchController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m
+c000000004D6495340000000000002E39
+t1298437428
+s11833
+i"iPhoneFeedsController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib
+c000000004D6493710000000000007EA2
+t1298436977
+s32418
+
+N/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib
+c000000004D6BEF3E0000000000008823
+t1298919230
+s34851
+
+N/Users/alpascual/Pet Projects/EventMeetUp/EventMeetUp_Prefix.pch
+c000000004D49A61600000000000000BF
+t1296672278
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.h
+c000000004D5F3E2000000000000001C0
+t1298087456
+s448
+i<Foundation/Foundation.h>
+i"SessionManager.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m
+c000000004D5F3E0200000000000006C6
+t1298087426
+s1734
+i"FeedsConfig.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/About.htm
+c000000004D5730C9000000000000040B
+t1297559753
+s1035
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Default.png
+c000000004D5EB7CC000000000000AB3C
+t1298053068
+s43836
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon-72.png
+c000000004D5EBACB0000000000001D94
+t1298053835
+s7572
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon.png
+c000000004D5EBADC00000000000014B4
+t1298053852
+s5300
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Resources/Icon@2x.png
+c000000004D5EBAB60000000000003EB5
+t1298053814
+s16053
+
+N/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.h
+c000000004D56DC5B0000000000000166
+t1297538139
+s358
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m
+c000000004D56DEA10000000000000378
+t1297538721
+s888
+i"SessionManager.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.h
+c000000004D49A616000000000000035A
+t1296672278
+s858
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m
+c000000004D49A6160000000000001763
+t1296672278
+s5987
+i"AppDelegate_Shared.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld
+c000000004D49A6160000000000000088
+t1296672278
+s136
+
+N/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m
+c000000004D49A616000000000000015F
+t1296672278
+s351
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app.dSYM
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/About.htm
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/ConferenceController_iPad.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/ConferencesController.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/Default.png
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/DetailTableViewController.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/EventMeetUp
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/EventMeetUp.momd
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/Icon-72.png
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/Icon.png
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/Icon@2x.png
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/Info.plist
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/MainWindow_iPad.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/MainWindow_iPhone.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/PkgInfo
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/SearchController.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/iPadFeedsController.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/iPadSurface.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/iPhoneAbout.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/iPhoneFeedsController.nib
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_Shared.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPad.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPhone.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferencesController.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/DetailTableViewController.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/EventMeetUp.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsConfig.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsParser.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/GTMNSString+HTML.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedInfo.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedItem.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedParser.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSDate+InternetDateTime.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+HTML.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+XMLEntities.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SearchController.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SessionManager.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadFeedsController.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadSurface.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneAbout.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneFeedsController.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.h
+c000000004D5432B50000000000000385
+t1297363637
+s901
+i<UIKit/UIKit.h>
+i"AppDelegate_Shared.h"
+i"iPadFeedsController.h"
+i"iPadSurface.h"
+i"ConferencesController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m
+c000000004D557E1100000000000009DF
+t1297448465
+s2527
+i"AppDelegate_iPad.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib
+c000000004D49A61600000000000038A1
+t1296672278
+s14497
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.h
+c000000004D56C1E100000000000002EA
+t1297531361
+s746
+i<UIKit/UIKit.h>
+i"AppDelegate_Shared.h"
+i"iPhoneFeedsController.h"
+i"ConferencesController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m
+c000000004D56C2FC0000000000000D01
+t1297531644
+s3329
+i"AppDelegate_iPhone.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.h
+c000000004D6BEED500000000000002B2
+t1298919125
+s690
+i<UIKit/UIKit.h>
+i"FeedsConfig.h"
+i"iPadSurface.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m
+c000000004D6BEF8C0000000000000CAB
+t1298919308
+s3243
+i"ConferencesController.h"
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib
+c000000004D6BEF24000000000000859A
+t1298919204
+s34202
+
+N/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib
+c000000004D49A6170000000000003A8F
+t1296672279
+s14991
+
+N/Users/alpascual/Pet Projects/SilverlightNews/FeedsParser.h
+c000000004D3210A4000000000000023E
+t1295126692
+s574
+i<Foundation/Foundation.h>
+i"MWFeedParser.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/GTMDefines.h
+c000000004D1A2CCE0000000000002E51
+t1293561038
+s11857
+i<AvailabilityMacros.h>
+i<TargetConditionals.h>
+i<Availability.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/GTMNSString+HTML.h
+c000000004D1A2CCE00000000000008F0
+t1293561038
+s2288
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedInfo.h
+c000000004D1A2CCE00000000000006DD
+t1293561038
+s1757
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedItem.h
+c000000004D1A2CCE00000000000009D8
+t1293561038
+s2520
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedParser.h
+c000000004D3212A3000000000000135B
+t1295127203
+s4955
+i<Foundation/Foundation.h>
+i"MWFeedInfo.h"
+i"MWFeedItem.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/MWFeedParser_Private.h
+c000000004D1A2CCE0000000000000AD5
+t1293561038
+s2773
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/NSDate+InternetDateTime.h
+c000000004D1A2CCE0000000000000262
+t1293561038
+s610
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/NSString+HTML.h
+c000000004D1A2CCE000000000000075A
+t1293561038
+s1882
+i<Foundation/Foundation.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/Shared/NSString+XMLEntities.h
+c000000004D1A2CCE00000000000006C8
+t1293561038
+s1736
+i<Foundation/Foundation.h>
+i"NSString+HTML.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/SubstitutableDetailViewController.h
+c000000004D3524B50000000000000179
+t1295328437
+s377
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPadFeedsController.h
+c000000004D3524D5000000000000030D
+t1295328469
+s781
+i<UIKit/UIKit.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"SubstitutableDetailViewController.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPadSurface.h
+c000000004D57DFFB00000000000004A9
+t1297604603
+s1193
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"iPhoneFeedsController.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/DetailTableViewController.h
+c000000004D4C46C2000000000000095F
+t1296844482
+s2399
+i<UIKit/UIKit.h>
+i<iAd/iAd.h>
+i"MWFeedItem.h"
+i"SubstitutableDetailViewController.h"
+i"iPhoneAbout.h"
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/SearchController.h
+c000000004D6BEFCC00000000000001B4
+t1298919372
+s436
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/iPhoneAbout.h
+c000000004D38A7BA000000000000029B
+t1295558586
+s667
+i<UIKit/UIKit.h>
+
+N/Users/alpascual/Pet Projects/SilverlightNews/iPhone/iPhoneFeedsController.h
+c000000004D649325000000000000058F
+t1298436901
+s1423
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i"FeedsParser.h"
+i"FeedsConfig.h"
+i"DetailTableViewController.h"
+i"iPhoneAbout.h"
+i"SubstitutableDetailViewController.h"
+i"SearchController.h"
+
+N/var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-gxstsheyxxztfecrsejirbcvphud/EventMeetUp_Prefix.pch.gch
+t2
+s0
+
+NEventMeetUp-Info.plist
+c000000004D57D3CE00000000000005EB
+t1297601486
+s1515
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_Shared.o "/Users/alpascual/Pet Projects/EventMeetUp/Shared/AppDelegate_Shared.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPad.o "/Users/alpascual/Pet Projects/EventMeetUp/iPad/AppDelegate_iPad.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/AppDelegate_iPhone.o "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/AppDelegate_iPhone.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/ConferencesController.o "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/DetailTableViewController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsConfig.o "/Users/alpascual/Pet Projects/EventMeetUp/FeedsConfig.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/FeedsParser.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/FeedsParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/GTMNSString+HTML.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/GTMNSString+HTML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedInfo.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedInfo.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedItem.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedItem.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/MWFeedParser.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/MWFeedParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSDate+InternetDateTime.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSDate+InternetDateTime.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+HTML.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+HTML.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/NSString+XMLEntities.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/Shared/NSString+XMLEntities.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SearchController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/SessionManager.o "/Users/alpascual/Pet Projects/EventMeetUp/SessionManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadFeedsController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPadSurface.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneAbout.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/iPhoneFeedsController.o "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/EventMeetUp.build/Distribution-iphonesimulator/EventMeetUp.build/Objects-normal/i386/main.o "/Users/alpascual/Pet Projects/EventMeetUp/Shared/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadFeedsController.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPadSurface.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/DetailTableViewController.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/SearchController.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneAbout.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/../SilverlightNews/iPhone/iPhoneFeedsController.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/ConferenceController_iPad.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPad/MainWindow_iPad.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/ConferencesController.xib"
+r0
+
+CCompileXIB "/Users/alpascual/Pet Projects/EventMeetUp/iPhone/MainWindow_iPhone.xib"
+r0
+
+CCpResource build/Distribution-iphonesimulator/EventMeetUp.app/About.htm Resources/About.htm
+r0
+
+CCpResource build/Distribution-iphonesimulator/EventMeetUp.app/Default.png Resources/Default.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/EventMeetUp.app/Icon-72.png Resources/Icon-72.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/EventMeetUp.app/Icon.png Resources/Icon.png
+r0
+
+CCpResource build/Distribution-iphonesimulator/EventMeetUp.app/Icon@2x.png Resources/Icon@2x.png
+r0
+
+CDataModelVersionCompile "/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/EventMeetUp.momd" "/Users/alpascual/Pet Projects/EventMeetUp/Shared/EventMeetUp.xcdatamodeld"
+r0
+
+CGenerateDSYMFile "/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app.dSYM" "/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/EventMeetUp"
+r0
+
+CLd "/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/EventMeetUp" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app/Info.plist" EventMeetUp-Info.plist
+r0
+
+CProcessPCH /var/folders/B5/B59oVsA5GsGPQOqDbAJQpU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EventMeetUp_Prefix-gxstsheyxxztfecrsejirbcvphud/EventMeetUp_Prefix.pch.gch EventMeetUp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/alpascual/Pet Projects/EventMeetUp/build/Distribution-iphonesimulator/EventMeetUp.app"
+r0
+
